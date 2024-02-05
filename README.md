@@ -1,4 +1,4 @@
-# Sonoma On X1-Cacbon-Gen-7-Hackintosh
+# Sonoma On X1-Carbon-Gen-7-Hackintosh
 
 
 
