@@ -28,7 +28,8 @@
 # Not Working:
 - Airdrop
 
-
+# Demo Function keys native on Thinkpad X1 Carbon Gen 7
+- https://youtu.be/UCXot8AGVZA
 
 # Screenshot:
 
