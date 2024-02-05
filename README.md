@@ -3,7 +3,7 @@
 
 
 # Specs:
-- CPU:	Intel core i5 8365U
+- CPU:	Intel Core i5 8365U
 - Display: 14.0 inche Anti-glare LED backlit High Definition QHD IPS 2560*1440
 - GPU: Intel® UHD Graphics for 8th Generation Intel® Processors
 - USB Ports:	2 x USB Type C, 1 x USB Type A
