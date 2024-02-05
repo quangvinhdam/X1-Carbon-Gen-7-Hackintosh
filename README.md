@@ -12,7 +12,7 @@
 - SSD: WDC PC SN730 SDBQNTY-512G-1001 
 
 # Working:
-- Intel HD Graphics 620 1536 MB
+- Intel HD Graphics
 - Restart and Shutdown
 - CPU Power Management
 - Wifi 
